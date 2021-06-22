@@ -1,0 +1,16 @@
+C:\Users\jacko\Documents\Dev\Secondprogram\Secondprogram\bin\Debug\net5.0\Secondprogram.exe
+C:\Users\jacko\Documents\Dev\Secondprogram\Secondprogram\bin\Debug\net5.0\Secondprogram.deps.json
+C:\Users\jacko\Documents\Dev\Secondprogram\Secondprogram\bin\Debug\net5.0\Secondprogram.runtimeconfig.json
+C:\Users\jacko\Documents\Dev\Secondprogram\Secondprogram\bin\Debug\net5.0\Secondprogram.runtimeconfig.dev.json
+C:\Users\jacko\Documents\Dev\Secondprogram\Secondprogram\bin\Debug\net5.0\Secondprogram.dll
+C:\Users\jacko\Documents\Dev\Secondprogram\Secondprogram\bin\Debug\net5.0\ref\Secondprogram.dll
+C:\Users\jacko\Documents\Dev\Secondprogram\Secondprogram\bin\Debug\net5.0\Secondprogram.pdb
+C:\Users\jacko\Documents\Dev\Secondprogram\Secondprogram\obj\Debug\net5.0\Secondprogram.csproj.AssemblyReference.cache
+C:\Users\jacko\Documents\Dev\Secondprogram\Secondprogram\obj\Debug\net5.0\Secondprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacko\Documents\Dev\Secondprogram\Secondprogram\obj\Debug\net5.0\Secondprogram.AssemblyInfoInputs.cache
+C:\Users\jacko\Documents\Dev\Secondprogram\Secondprogram\obj\Debug\net5.0\Secondprogram.AssemblyInfo.cs
+C:\Users\jacko\Documents\Dev\Secondprogram\Secondprogram\obj\Debug\net5.0\Secondprogram.csproj.CoreCompileInputs.cache
+C:\Users\jacko\Documents\Dev\Secondprogram\Secondprogram\obj\Debug\net5.0\Secondprogram.dll
+C:\Users\jacko\Documents\Dev\Secondprogram\Secondprogram\obj\Debug\net5.0\ref\Secondprogram.dll
+C:\Users\jacko\Documents\Dev\Secondprogram\Secondprogram\obj\Debug\net5.0\Secondprogram.pdb
+C:\Users\jacko\Documents\Dev\Secondprogram\Secondprogram\obj\Debug\net5.0\Secondprogram.genruntimeconfig.cache
