@@ -6,6 +6,20 @@ namespace InputTest
     {
         static void Main(string[] args)
         {
+            //Testing inputs
+
+            /*
+             * 
+             * Multi Line comment
+             */
+
+            //var implicitly defines a variable type based on declaration
+
+            var z = 1.1;
+
+            //const cannot be changed after initial declaration
+            const double PI = 3.12;
+
             string yourName;
             Console.WriteLine("What is your name?");
 
